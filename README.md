@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate developer from México 🇲🇽</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Osares10" alt="Osares10" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Osares10" alt="Osares10" /> </p>
 
 <br>
 
