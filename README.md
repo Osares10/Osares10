@@ -1,24 +1,29 @@
-<h1 align="center">Hi there, I'm <a href="https://arias.pw/" target="_blank">Oswaldo Arias</a></h1>
+```console
+Osares10@github:~$ neofetch
 
-<h3 align="center">A passionate developer from México 🇲🇽</h3>
-<br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Osares10" alt="Osares10" /> </p>
-
-<br>
-
-- 🧭 Founder at [@arzui](https://github.com/arzui/) and [@fripped](https://github.com/fripped)
-
-- 🖋️ Blogging at [ARZUI](https://arzui.com/)
-
-<br><br>
-## Skills
-- 👨‍💻 Python, Matlab, C, C++
-- ☁️ AWS, Azure, GCC
-- 🤖 Robotic, LabVIEW, Arduino, Raspberry Pi
-- 🚀 Aeronautic Engineering Student
-
-<br><br>
-## Contact
-- [arias.pw](https://arias.pw/)
-- [Oswaldo Arias](https://linkedin.com/in/oswaldoarias/) on Linkedin
-- [oswaldo@arias.pw](mailto:oswaldo@arias.pw) via email
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 Osares10@github
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 21 years
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: C, Matlab, Python, 2 others...
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: Bash
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, Matlab, JetBrains
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: /home/Osares10
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
+a@@@@@@@@@@2                                    v@@@@@@@@@@;    
+#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
+@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: arias.pw
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Osares10#1112
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    E-mail: oswaldo@arias.pw
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: Osares10
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: ~/one-page-template
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Serial RC Car: ~/RC-Car
+              "Lf8@@@@v              q@@@#Qa?:                 
+                  -!v|`              _?v!`                     
+```
